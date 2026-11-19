@@ -1,0 +1,8 @@
+import type {DemoData,Role,Dataset} from '@/types/domain';
+export const canReview=(role:Role)=>role==='manager'||role==='admin';
+export const external=(role:Role)=>role==='customer'||role==='investor';
+export function allowedBuildings(s:Pick<DemoData,'users'|'userId'|'buildings'|'role'>){const u=s.users.find(u=>u.id===s.userId&&u.role===s.role);if(!u)return [];return s.buildings.filter(b=>u.buildingIds.includes(b.id)||(['manager','director','admin'].includes(s.role)&&u.projectIds.includes(b.projectId)));}
+export function scopedData(s:DemoData):Dataset{
+ const buildings=allowedBuildings(s);const ids=new Set(buildings.map(b=>b.id));const pids=new Set(buildings.map(b=>b.projectId));const outside=external(s.role);
+ return {projects:s.projects.filter(p=>pids.has(p.id)),buildings,users:outside?s.users.filter(u=>u.id===s.userId):s.users.filter(u=>u.id===s.userId||u.buildingIds.some(id=>ids.has(id))||u.projectIds.some(id=>pids.has(id))),evidence:s.evidence.filter(e=>ids.has(e.buildingId)&&(!outside||e.status==='approved'&&e.published)).map(e=>outside?{...e,note:'',reviewNote:undefined,history:[],engineerId:'',reviewerId:undefined}:e),milestones:s.milestones.filter(m=>ids.has(m.buildingId)&&(!outside||m.published)),tasks:outside?[]:s.tasks.filter(t=>ids.has(t.buildingId)&&(!['engineer','partner','property'].includes(s.role)||t.assignee===s.userId)),issues:outside?[]:s.issues.filter(i=>ids.has(i.buildingId)),inspections:outside?[]:s.inspections.filter(i=>ids.has(i.buildingId)),observations:s.observations.filter(o=>ids.has(o.buildingId)).map(o=>outside?{...o,actualSpend:0,plannedSpend:0}:o),activities:s.activities.filter(a=>ids.has(a.buildingId)&&(!outside||a.public))};
+}

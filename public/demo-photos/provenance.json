@@ -1,0 +1,302 @@
+[
+  {
+    "file": "photo-01.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T0\\CP-01.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-02.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T0\\CP-02.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-03.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T0\\CP-03.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-04.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T0\\CP-04.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-05.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T1\\CP-01.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-06.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T1\\CP-02.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-07.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T1\\CP-03.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-08.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T1\\CP-04.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-09.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T2\\CP-01.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-10.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T2\\CP-02.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-11.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T2\\CP-03.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-12.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\fixed_stations\\T2\\CP-04.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-13.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_001.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-14.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_002.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-15.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_003.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-16.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_004.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-17.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_005.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-18.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_006.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-19.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_007.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-20.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_008.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-21.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_009.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-22.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_010.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-23.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_011.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-24.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_012.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-25.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_013.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-26.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_014.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-27.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_015.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-28.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_016.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-29.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_017.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-30.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_018.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-31.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_019.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-32.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_020.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-33.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_021.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-34.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_022.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-35.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_023.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-36.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_024.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-37.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_025.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-38.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_026.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-39.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_027.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-40.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_028.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-41.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_029.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-42.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_030.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-43.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_031.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-44.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\fixtures\\vision_demo\\reconstruction_views\\T1\\view_032.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-45.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-01\\CP-01.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-46.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-01\\CP-02.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-47.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-01\\CP-03.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-48.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-01\\CP-04.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-49.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-01\\CP-05.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-50.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-01\\CP-06.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-51.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-01\\CP-07.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-52.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-01\\CP-08.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-53.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-15\\CP-01.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-54.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-15\\CP-02.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-55.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-15\\CP-03.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-56.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-15\\CP-04.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-57.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-15\\CP-05.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-58.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-15\\CP-06.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-59.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-15\\CP-07.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  },
+  {
+    "file": "photo-60.png",
+    "source": "C:\\Users\\mateo\\OneDrive\\Documents\\ChatGPT\\gener2\\assets\\test_photos\\timelapse\\2026-09-15\\CP-08.png",
+    "origin": "Synthetic geometrically rendered fixture; illustrative assignment, not actual project photography"
+  }
+]
